@@ -34,7 +34,6 @@ This Java project reads book data from a CSV file, models each book as an object
    - Edit `TestBookData.java` to comment/uncomment or add queries.
    - Re-compile and run again to see different outputs.
 
-***
 
 ## Technical Details
 
@@ -45,4 +44,3 @@ This Java project reads book data from a CSV file, models each book as an object
 - Implements encapsulation by modeling books as objects with getters.
 - Allows lazy loading of CSV data (only on first query call).
 
-***
